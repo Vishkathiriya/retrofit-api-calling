@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IBL_POST_CALL</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_salary">Enter Salary</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="submit">Submit</string>
+</resources>
